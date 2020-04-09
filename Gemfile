@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 ruby '2.6.3'
 
-gem 'rails', '3.2.11'
-gem 'rake', '10.1.0'
+gem 'rails'
+gem 'rake'
 gem 'thin'
 gem 'ruby-progressbar'
 
