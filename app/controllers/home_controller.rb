@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
-  before_filter :set_term
+  before_action :set_term
 
   def index
     # calculate min and max hours for each day

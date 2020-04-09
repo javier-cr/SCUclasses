@@ -18,7 +18,7 @@ module Scuclasses
     config.active_support.escape_html_entities_in_json = true
 
     # Enforce whitelist mode for mass assignment.
-    config.active_record.whitelist_attributes = true
+    # config.active_record.whitelist_attributes = true
 
     # Enable the asset pipeline
     config.assets.enabled = true
